@@ -1,0 +1,20 @@
+[
+  {
+    "project-name": "Rosdama",
+    "description": "rosdama is an Islamic spiritual extracurricular at Daya Utama High School in Bekasi City, which has extensive learning about religious learning and Islamic culture.",
+    "skills": ["html", "tailwind", "reactjs"],
+    "link": "https://artawise.com/"
+  },
+  {
+    "project-name": "Artawise",
+    "description": "Expert tech consulting to support your bussiness. Improving your existing solution and planning next steps, we work closely with you to help",
+    "skills": ["html", "tailwind", "javascript"],
+    "link": "https://artawise.com/"
+  },
+  {
+    "project-name": "Sushi-Noi",
+    "description": "sushi noi is a Japanese restaurant that provides food at an affordable price so that it covers many circles of society.",
+    "skills": ["html", "css", "tailwind", "javascript"],
+    "link": "https://sushinoi.co.id/index.html"
+  }
+]

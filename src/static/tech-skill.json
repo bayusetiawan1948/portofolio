@@ -1,0 +1,82 @@
+[
+  {
+    "skill": "HTML",
+    "icon": "html"
+  },
+  {
+    "skill": "CSS",
+    "icon": "css"
+  },
+  {
+    "skill": "Javascript",
+    "icon": "javascript"
+  },
+  {
+    "skill": "Typescript",
+    "icon": "typescript"
+  },
+  {
+    "skill": "PHP",
+    "icon": "php"
+  },
+  {
+    "skill": "React.Js",
+    "icon": "reactjs"
+  },
+  {
+    "skill": "Bootstrap",
+    "icon": "bootstrap"
+  },
+  {
+    "skill": "Tailwind",
+    "icon": "tailwind"
+  },
+  {
+    "skill": "Laravel",
+    "icon": "laravel"
+  },
+  {
+    "skill": "Codeigniter",
+    "icon": "codeigniter"
+  },
+  {
+    "skill": "Node.Js",
+    "icon": "nodejs"
+  },
+  {
+    "skill": "Express.Js",
+    "icon": "expressjs"
+  },
+  {
+    "skill": "MySQL",
+    "icon": "mysql"
+  },
+  {
+    "skill": "Redis",
+    "icon": "redis"
+  },
+  {
+    "skill": "Vite",
+    "icon": "vite"
+  },
+  {
+    "skill": "Nginx",
+    "icon": "nginx"
+  },
+  {
+    "skill": "Google Cloud",
+    "icon": "gcp"
+  },
+  {
+    "skill": "Ubuntu",
+    "icon": "ubuntu"
+  },
+  {
+    "skill": "Github",
+    "icon": "github"
+  },
+  {
+    "skill": "Figma",
+    "icon": "figma"
+  }
+]

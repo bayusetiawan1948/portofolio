@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Fascomedia Team",
+    "position": "Full-stack Developer",
+    "start-date": "10-2022",
+    "end-date": "02-2023",
+    "skills": ["laravel", "codeigniter", "javascript", "mysql", "nginx"]
+  },
+  {
+    "company": "PT. Fokus Inovasi Faradisa Abadi",
+    "position": "Full-stack Developer",
+    "start-date": "02-2022",
+    "end-date": "02-2023",
+    "skills": ["laravel", "javascript", "mysql", "nginx", "ubuntu"]
+  },
+  {
+    "company": "Bangkit Academy",
+    "position": "Cloud Computing Cohort",
+    "start-date": "02-2023",
+    "end-date": "07-2023",
+    "skills": ["expressjs", "mysql", "gcp", "nginx", "ubuntu"]
+  }
+]
