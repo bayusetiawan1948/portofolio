@@ -5,7 +5,7 @@ import Portofolio from './components/layout/portofolio';
 import React, { useState } from 'react';
 function App() {
   return (
-    <div className="font-poppins flex flex-col justify-center items-center bg-bases">
+    <div className="font-poppins flex flex-col items-center gap-[200px] bg-bases">
       <Navbar />
       <Hero />
       <About />

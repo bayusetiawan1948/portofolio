@@ -3,7 +3,7 @@ import HeroCore from '../fragments/hero-core';
 
 export default function Hero() {
   return (
-    <div className="flex flex-col justify-center items-center mt-10 gap-5">
+    <div className="flex flex-col justify-center items-center gap-5 -mt-40">
       <div className="bg-fourth text-primary text-xl font-medium w-max rounded-2xl py-2 px-10">
         Portofolio Gallery
       </div>
