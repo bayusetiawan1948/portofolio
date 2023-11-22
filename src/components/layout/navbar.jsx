@@ -2,18 +2,8 @@ import { useState } from 'react';
 import LargeNavbar from '../fragments/large-navbar';
 import SmallNavbar from '../fragments/small-navbar';
 
-function Navbar() {
-  const { innerWidth } = window;
-
-  const getWidthIcon = (windowWidth) => {
-    if (windowWidth >= 425) {
-      return 32;
-    } else {
-      return 28;
-    }
-  };
-  const [isHidden, setIsHidden] = useState(true);
-  let iconWidth = getWidthIcon(innerWidth);
+function Navbar(props) {
+  const { iconWidth, isHidden } = props;
   const styles = isHidden ? ` ` : `fixed bottom-5 right-5`;
   return (
     <div className={`z-50 ${styles}`}>
