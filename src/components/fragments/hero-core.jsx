@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function HeroCore() {
   return (
     <div className="grid grid-rows-1 gap-5 justify-items-center p-5 w-full mt:grid-cols-2 mt:max-w-mt md:max-w-3xl md:grid-cols-4 lg:max-w-6xl lg:grid-rows-1 xl:p-3">

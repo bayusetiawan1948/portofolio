@@ -2,6 +2,7 @@ import About from './components/layout/about';
 import Hero from './components/layout/hero';
 import Navbar from './components/layout/navbar';
 import Portofolio from './components/layout/portofolio';
+import Contact from './components/layout/contact';
 import React, { useEffect, useState } from 'react';
 function App() {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
@@ -33,6 +34,7 @@ function App() {
       <Hero isHidden={showElement} />
       <About />
       <Portofolio />
+      <Contact />
     </div>
   );
 }
