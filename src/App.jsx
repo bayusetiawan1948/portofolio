@@ -4,6 +4,7 @@ import Navbar from './components/layout/navbar';
 import Portofolio from './components/layout/portofolio';
 import Contact from './components/layout/contact';
 import React, { useEffect, useState } from 'react';
+import Footer from './components/layout/footer';
 function App() {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
   const [showElement, setShowElement] = useState(true);
@@ -34,7 +35,8 @@ function App() {
       <Hero isHidden={showElement} />
       <About />
       <Portofolio />
-      <Contact />
+      <Contact iconWidth={iconWidth} />
+      <Footer iconWidth={iconWidth} />
     </div>
   );
 }
